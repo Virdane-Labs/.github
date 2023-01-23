@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+✨
+An Indie Dev studio run by one dev currently, working on prototyping and making fun narrative based games and stories.
+Welcome!
+
+Games can be found in the following links!
+
+Itch : https://briskwoods.itch.io/
+Play Store: Coming Soon!
+GameJolt: https://gamejolt.com/@Briskwoods
+Steam: Coming Soon!
+Playstation: Coming Soon!
+Nintendo: Coming Soon!
+XBoxLive: Coming Soon!
+✨
+
 <!--
 
 **Here are some ideas to get you started:**
