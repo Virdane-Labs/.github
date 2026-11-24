@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ✨
-An Indie Dev studio run by one dev currently, working on prototyping and making fun narrative based games and stories.
+An Indie Dev studio working on Son of Mabin.
 Welcome!
 
 Games can be found in the following links!
